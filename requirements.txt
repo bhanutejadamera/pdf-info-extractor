@@ -1,0 +1,4 @@
+gradio
+pdfminer.six
+huggingface_hub
+pymupdf
